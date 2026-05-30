@@ -14,7 +14,7 @@ ul {
   padding: 0;
   background-color: brown;
   display: flex;
-  justify-content: center; /
+  justify-content: center; 
 }
 
 ul li a {
