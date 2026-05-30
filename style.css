@@ -4,8 +4,12 @@ background-color: beige;
   padding: 0;
 }
 
-h2, p {
+h1, p {
   margin: 10px;
+  text-decoration: underline;
+  text-decoration-color: brown;
+  text-decoration-style: solid;
+  text-decoration-thickness: 2px;
 }
 
 ul {
