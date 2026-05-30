@@ -4,7 +4,7 @@ background-color: beige;
   padding: 0;
 }
 
-h1, p {
+h1, h3, p {
   margin: 10px;
   text-decoration: underline;
   text-decoration-color: brown;
